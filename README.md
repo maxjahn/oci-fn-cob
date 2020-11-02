@@ -4,8 +4,8 @@ This is an example for using the fnproject hotwrap functionality to run arbitrar
 
 To build and run fnproject CLI can be used:
 
-'fn build'
-'fn deploy -app <YOUR_FN_APP>'
+`fn build`
+`fn deploy -app <YOUR_FN_APP>`
 
-'fn invoke <YOUR_FN_APP> hello-cob'
-'echo "Max" | fn invoke <YOUR_FN_APP> hello-cob'
+`fn invoke <YOUR_FN_APP> hello-cob`
+`echo "Max" | fn invoke <YOUR_FN_APP> hello-cob`
