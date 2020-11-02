@@ -20,6 +20,6 @@
            IF W-IDX > 0 THEN
                DISPLAY "Hello, " WS-STDIN(1:W-IDX) "!"
              ELSE
-               DISPLAY "Hello, world!"
+               DISPLAY "Hello, World!"
            END-IF
        STOP RUN.
